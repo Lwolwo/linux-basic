@@ -1,4 +1,4 @@
-#Linux练习
+# Linux练习
 ```
 mkdir cli-practice 
 cd cli-practice
